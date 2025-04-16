@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Hi I am Spencer, Data Scientist and Full Stack engineer who is passionate about building AI powered applications. I am experienced in areas of data analysis, machine learning, API development, and website development. Checkout my portfolio where you can find more in depth information about my skills, work experience, and projects. https://spencerwueste.vercel.app/<br><br>- 🔭 I’m currently working at Western Digital building software to help automate the HDD validation process. My daily tech stack is Python, React Typescript, Tailwind, and SQL Server I’m currently learning GraphQL and Rust<br>- 👯 I’m looking to collaborate on any cool projects!<br>- 💬 Ask me about anything<br>- 📫 How to reach me: LinkedIn<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I like pandas. Looking to change my Github username to pandacoderz.</h5>
+<h5 align="left">Hi I am Spencer, Data Scientist and Full Stack engineer who is passionate about building AI powered applications. I am experienced in areas of data analysis, machine learning, API development, and website development. Checkout my portfolio where you can find more in depth information about my skills, work experience, and projects. https://spencerwueste.com/<br><br>- 🔭 I’m currently working at Western Digital building software to help automate the HDD validation process. My daily tech stack is Python, React, Typescript, Tailwind, and SQL Server. I’m currently learning GraphQL and Rust.<br>- 👯 I’m looking to collaborate on any cool projects!<br>- 💬 Ask me about anything<br>- 📫 How to reach me: LinkedIn<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I like pandas. Looking to change my Github username to pandacoderz.</h5>
 
 ###
 
